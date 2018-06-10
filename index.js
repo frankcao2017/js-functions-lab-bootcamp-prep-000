@@ -1,5 +1,4 @@
 // write your code below!
-function happyHolidays(string) {
-  if ('happyHolidays => ()') 
+function happyHolidays() {
   return ('Happy holidays!')
 }
